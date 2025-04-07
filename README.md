@@ -37,10 +37,9 @@
  * @param {string} location - CDMX, Mexico.
  * @param {string} languages - Spanish, English.
  * @param {string} jobTitle - Industrial Engineering Student & Business Analytics.
- * @param {string} specialization - Process Optimization.
  * @param {string} interests - Basketball, The Cosmos, Playing with dogs, Puzzles.
  * @param {string} hobbies - Basketball, The Cosmos, Playing with dogs, Puzzles.
- * @param {string} education - Universidad Panamericana, City U Seattle.
+ * @param {string} education - Universidad Panamericana, City U of Seattle.
  * @param {string} approachable - Yes, I'm open to collaborations and projects!
  * @param {string} strength - Process Optimization.
  * @param {string} weakness - Still working on my shyness.
