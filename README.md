@@ -8,7 +8,7 @@
 <div align="center">
 
 
-![Top of egg](https://github.com/Mon1311/imagenes/blob/main/Imagen1.png?raw=true)
+![Top of egg](https://github.com/Mon1311/imagenes/blob/main/ARRIBA.png?raw=true)
 
 <details>
 <summary>Open profile</summary>
@@ -116,7 +116,7 @@ Hey! If you’re up for some lighthearted chats about life, random musings, or j
 
 </details>
 
-![Bottom of egg](https://github.com/Mon1311/imagenes/blob/main/Imagen2.png?raw=true)
+![Bottom of egg](https://github.com/Mon1311/imagenes/blob/main/ABAJO.png?raw=true)
 )
 
 </div>
