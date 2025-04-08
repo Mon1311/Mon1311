@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of Mon1311" src="https://github.com/Mon1311/imagenes/blob/main/avatar.png?raw=true" alt="Avatar photo of Mon1311">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Mon;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Engineer+Student;Musicals+Lover;Hardworking+and+Ambitious;Moon+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Welcome+to+My+GitHub+Profile;I+am+Mon;Inquisitive+and+Curious+by+nature;Engineering+Student;Music+Lover;Hardworking+and+Ambitious;Moon+and+sky+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -44,6 +44,7 @@ js
  * @param {string} approachable - Yes, I'm open to collaborations and projects!
  * @param {string} strength - Problem-Solving Skills, Attention to Detail, Communication Skills.
  * @param {string} weakness - Still working on my shyness.
+ * @param {string} favorite frase - MOM I AM A RICH MAN
  *
  * @throws {Error} Never a bug, always a learning opportunity!
  *
@@ -71,24 +72,13 @@ js
 </div>
 </details>
 
-
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details>
-
 <details>
   <summary>Quote</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    “SUCCESS IS NO ACCIDENT.
+     IT IS HARD WORK, PERSEVERANCE, LEARNING, STUDYING, SACRIFICE AND MOST OF ALL, LOVE OF WHAT YOU ARE DOING OR LEARNING TO DO.”
+    
   </blockquote>
 </details>
 
