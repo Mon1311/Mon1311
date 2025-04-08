@@ -8,7 +8,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://github.com/Mon1311/imagenes/blob/main/Imagen1.png?raw=true)
+![Top of egg](https://github.com/Mon1311/imagenes/blob/main/Imagen1.png?raw=true)
 
 <details>
 <summary>Open profile</summary>
@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/Mon1311/imagenes/blob/main/avatar.png?raw=true" alt="Avatar photo of Mon1311">
+      <img height="200" alt="Avatar photo of Mon1311" src="https://github.com/Mon1311/imagenes/blob/main/avatar.png?raw=true" alt="Avatar photo of Mon1311">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
@@ -229,7 +229,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://github.com/Mon1311/imagenes/blob/main/Imagen2.png?raw=true)
+![Bottom of egg](https://github.com/Mon1311/imagenes/blob/main/Imagen2.png?raw=true)
 )
 
 </div>
