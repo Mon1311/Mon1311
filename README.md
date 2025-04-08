@@ -100,7 +100,7 @@ js
 
 ## Let's Work Together!
 
-If you’re looking for a thoughtful conversation or would like to discuss any topic, feel free to reach out. I’m always open to connecting and engaging in meaningful dialogue.  <a href="mailto:moncalvara13@gmail.com">contact me by email</a>.Don’t hesitate to get in touch, I won't bite, I promise.
+If you’re looking for a formal conversation or would like to discuss any topic, feel free to reach out. I’m always open to connecting and engaging in meaningful dialogue,  <a href="mailto:moncalvara13@gmail.com">contact me by email</a>. Don’t hesitate to get in touch, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
@@ -109,7 +109,7 @@ If you’re looking for a thoughtful conversation or would like to discuss any t
 
 *<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">*
 
-Hey! If you’re up for some lighthearted chats about life, random musings, or just want to keep up with each other, <a href="(https://www.instagram.com/montsecg11?igsh=eXd6djE0aTZuMDRp)">follow me</a> on Instagram! Let’s share some laughs, stories, and good vibes!
+Hey! If you’re up for some lighthearted chats about life, random musings, or just want to keep up with each other, <a href="https://www.instagram.com/montsecg11?igsh=eXd6djE0aTZuMDRp">follow me</a> on Instagram! Let’s share some laughs, stories, and good vibes!
 
   </td>
   </tr>
