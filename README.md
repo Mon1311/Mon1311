@@ -98,19 +98,18 @@ js
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Let's Work on Your Project Together!
+## Let's Work Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:moncalvara13@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you’re looking for a thoughtful conversation or would like to discuss any topic, feel free to reach out. I’m always open to connecting and engaging in meaningful dialogue.  <a href="mailto:moncalvara13@gmail.com">contact me by email</a>.Don’t hesitate to get in touch, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## Let’s keep in touch!
 
 *<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">*
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+Hey! If you’re up for some lighthearted chats about life, random musings, or just want to keep up with each other, <a href="(https://www.instagram.com/montsecg11?igsh=eXd6djE0aTZuMDRp)">follow me</a> on Instagram! Let’s share some laughs, stories, and good vibes!
 
   </td>
   </tr>
