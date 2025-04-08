@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Top of pokeball](blob:https://web.whatsapp.com/e620c1b3-c16a-4c5c-b168-799f5f52eddf)
+![Top of pokeball]([blob:https://web.whatsapp.com/e620c1b3-c16a-4c5c-b168-799f5f52eddf](https://drive.google.com/file/d/17KceMg-5nHJzAlCRCjzFDuNqjEXHF4ut/view?usp=sharing))
 
 <details>
 <summary>Open profile</summary>
