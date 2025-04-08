@@ -117,7 +117,7 @@ Hey! If you’re up for some lighthearted chats about life, random musings, or j
 </details>
 
 ![Bottom of egg](https://github.com/Mon1311/imagenes/blob/main/ABAJO.png?raw=true)
-)
+|
 
 </div>
 
