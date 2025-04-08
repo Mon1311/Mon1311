@@ -37,14 +37,14 @@ js
  * @constructor
  * @param {string} location - CDMX, Mexico.
  * @param {string} languages - Spanish, English.
- * @param {string} jobTitle - Industrial Engineering Student.
+ * @param {string} jobTitle - Industrial Engineering & Science in Bussiness and Data Analytics Student.
  * @param {string} interests - Logistics, Process Optimization and Analysis, Project management.
  * @param {string} hobbies - Sports, The Cosmos, Dogs, Puzzles.
  * @param {string} education - Universidad Panamericana, City U of Seattle.
  * @param {string} approachable - Yes, I'm open to collaborations and projects!
  * @param {string} strength - Problem-Solving Skills, Attention to Detail, Communication Skills.
  * @param {string} weakness - Still working on my shyness.
- * @param {string} favorite frase - MOM I AM A RICH MAN
+ * @param {string} favorite frase - Well-behaved WOMEN rarely make HISTORY
  *
  * @throws {Error} Never a bug, always a learning opportunity!
  *
