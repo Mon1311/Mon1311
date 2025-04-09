@@ -76,9 +76,8 @@
   <summary>Quote</summary>
   <br>
   <blockquote>
-    “SUCCESS IS NO ACCIDENT.
-     IT IS HARD WORK, PERSEVERANCE, LEARNING, STUDYING, SACRIFICE AND MOST OF ALL, LOVE OF WHAT YOU ARE DOING OR LEARNING TO DO.”
-    
+    “Courage is not having the strength to go on; it is going on when you don't have the strength”
+    <br><strong>Theodore Roosevelt</strong>
   </blockquote>
 </details>
 
