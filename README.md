@@ -107,7 +107,7 @@ If you’re looking for a formal conversation or would like to discuss any topic
 
 ## Let’s keep in touch!
 
-If you’re up for some lighthearted chats about life, random musings, or just want to keep up with each other, <a href="https://www.instagram.com/montsecg11?igsh=eXd6djE0aTZuMDRp">follow me</a> on Instagram! Let’s share some laughs, stories, and good vibes!
+If you’re up for some lighthearted chats about life, random musings, or just want to keep up with each other, <a href="https://www.instagram.com/montsecg11?igsh=eXd6djE0aTZuMDRp">follow me on Instagram!</a> Let’s share some laughs, stories, and good vibes!
 
   </td>
   </tr>
