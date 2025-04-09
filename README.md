@@ -30,14 +30,14 @@
 
 <div align="left">
 
-js
+
 /**
  * Represents me.
  *
  * @constructor
  * @param {string} location - CDMX, Mexico.
  * @param {string} languages - Spanish, English.
- * @param {string} jobTitle - Industrial Engineering & Science in Bussiness and Data Analytics Student.
+ * @param {string} studies - Industrial Engineering & Science in Bussiness and Data Analytics Student.
  * @param {string} interests - Logistics, Process Optimization and Analysis, Project management.
  * @param {string} hobbies - Sports, The Cosmos, Dogs, Puzzles.
  * @param {string} education - Universidad Panamericana, City U of Seattle.
