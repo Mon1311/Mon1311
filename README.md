@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of Mon1311" src="https://github.com/Mon1311/imagenes/blob/main/avatar.png?raw=true" alt="Avatar photo of Mon1311">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=3500&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Welcome+to+My+GitHub+Profile;I+am+Mon;Inquisitive+and+Curious+by+nature;Engineering+Student;Music+Lover;Hardworking+and+Ambitious;Moon+and+sky+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=500&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Welcome+to+My+GitHub+Profile;I+am+Mon;Inquisitive+and+Curious+by+nature;Engineering+Student;Music+Lover;Hardworking+and+Ambitious;Moon+and+sky+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
